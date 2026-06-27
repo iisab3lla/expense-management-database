@@ -22,7 +22,7 @@ A web application for managing business expenses, focused on database modeling, 
 
 ## Project Snapshot
 
-<table>
+<table> 
   <tr>
     <td><strong>Project Type</strong></td>
     <td>Web application with relational database integration</td>
